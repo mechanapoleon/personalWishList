@@ -8,16 +8,24 @@ Se i libri sono stati scritti in inglese o francese, preferisco edizioni in quel
 
 
 ### Narrativa
-- Libro qualsiasi scritto prima del 2000, che ti ha colpito
-- Cormac McCarthy (preferibilmente inglese, libro qualsiasi)
-- Pynchon (preferibilmente in inglese, libro qualsiasi)
-- Knausgard, La Mia Battaglia
+Libro qualsiasi scritto prima del 1960, che ti ha colpito. Leggo con piacere i "classici".
 
-### Saggi
+
+- Cormac McCarthy (romanzo qualsiasi)
+- Pynchon (romanzo qualsiasi)
+- Knausgard, La Mia Battaglia
+- Natsume Sōseki, romanzo qualsiasi (se poesie edizione bilingue, per favore)
+- Guido Morselli, Dissipatio H. G.
+- Isaac Bashevis Singer (romanzo qualsiasi)
+
+
+### Saggi e altro
 - Who we are and how we got here, David Reich
 - The Western Canon: The Books and the Schools of the Ages, Harold Bloom
 - A Concise History of the Armenian People: From Ancient Times to the Present, George A. Bournoutian
 - The Beginning of Infinity, David Deutsch
+- Yoshida Kenkō, Tsurezuregusa (in italiano si trova come Ore d'Ozio, o Momenti d'Ozio, o titoli simili)
+
   
 ### Matematica e Fisica
 - Visual Complex Analysis, Tristan Needham
