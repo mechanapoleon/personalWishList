@@ -48,3 +48,8 @@ Libro qualsiasi scritto prima del 1960, che ti ha colpito. Leggo con piacere i "
 - Gauge Fields, Knots, and Gravity: 4, John C. Baez, Javier P. Muniain
 
 
+## Giochi
+- Manosinistra - (NecroBriscola RPG), Hollow Press Games
+- Delta Green (manuale base oppure ogni libro di campagne, e.g. Impossible Landscapes)
+
+
