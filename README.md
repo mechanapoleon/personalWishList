@@ -1,2 +1,0 @@
-# personalWishList
-A wishlist
