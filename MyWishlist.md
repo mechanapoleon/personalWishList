@@ -1,5 +1,3 @@
-Ecco i libri dalla tua lista che posso aggiungere al tuo file Markdown nella sezione "Matematica e Scienze":
-
 # My wishlist
 Se vuoi farmi un regalo e non sai cosa mandarmi, guarda qui. 
 
