@@ -22,8 +22,8 @@ Libro qualsiasi scritto prima del 1960, che ti ha colpito. Leggo con piacere i "
 - The Western Canon: The Books and the Schools of the Ages, Harold Bloom
 - A Concise History of the Armenian People: From Ancient Times to the Present, George A. Bournoutian
 - The Beginning of Infinity, David Deutsch
-- Yoshida Kenkō, Tsurezuregusa (in italiano si trova come Ore d'Ozio, o Momenti d'Ozio, o titoli simili)
-
+- Tsurezuregusa, Yoshida Kenkō (in italiano si trova come Ore d'Ozio, o Momenti d'Ozio, o titoli simili)
+- Tristi Balocchi, Takuboku Ishikawa (edizioni bilingue)
   
 ### Matematica e Fisica
 - Visual Complex Analysis, Tristan Needham
