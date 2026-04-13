@@ -1,29 +1,33 @@
-# My wishlist
+# Wishlist
 Se vuoi farmi un regalo e non sai cosa mandarmi, guarda qui. 
+
+
+
+## Videogiochi
+- [Wishlist Steam](https://store.steampowered.com/wishlist/profiles/76561198061799976/)
 
 ## Libri
 Se i libri sono stati scritti in inglese o francese, preferisco edizioni in quella lingua. Altrimenti traduzioni italiane vanno bene.
 
 
 ### Narrativa
-Libro qualsiasi scritto prima del 1960, che ti ha colpito. Leggo con piacere i "classici".
+Libro qualsiasi scritto prima del 1960, qualcosa che ti ha colpito. Alcune idee:
 
-
-- Cormac McCarthy (romanzo qualsiasi)
-- Pynchon (romanzo qualsiasi)
+- The 
+- Cormac McCarthy (Blood Meridian, The Passenger)
+- Pynchon (romanzo qualsiasi) 
 - Knausgard, La Mia Battaglia
-- Natsume Sōseki, romanzo qualsiasi (se poesie edizione bilingue, per favore)
+- Natsume Sōseki, romanzo qualsiasi (se poesie edizione bilingue, per favore) 
 - Guido Morselli, Dissipatio H. G.
-- Isaac Bashevis Singer (romanzo qualsiasi)
+- Isaac Bashevis Singer (già preso le )
 
 
 ### Saggi e altro
 - Who we are and how we got here, David Reich
-- The Western Canon: The Books and the Schools of the Ages, Harold Bloom
 - A Concise History of the Armenian People: From Ancient Times to the Present, George A. Bournoutian
 - The Beginning of Infinity, David Deutsch
-- Tsurezuregusa, Yoshida Kenkō (in italiano si trova come Ore d'Ozio, o Momenti d'Ozio, o titoli simili)
-- Tristi Balocchi, Takuboku Ishikawa (edizioni bilingue)
+- Ore d'Ozio, Yoshida Kenkō (a volte lo si trova come Momenti d'Ozio, in originale "Tsurezuregusa")
+- Tristi Balocchi, Takuboku Ishikawa
   
 ### Matematica e Fisica
 - Visual Complex Analysis, Tristan Needham
